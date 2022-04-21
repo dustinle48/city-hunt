@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">city-hunter</string>
+    <string name="title_activity_main">city-hunter</string>
+    <string name="package_name">io.ionic.starter</string>
+    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="facebook_app_id">1028471857752884</string>
+    <string name="facebook_client_token">8b782fdffe7bf0f825e77fdcbf440288</string>
+</resources>
